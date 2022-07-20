@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "365434160477",
+    "firebase_url": "https://gcp-hackathon-22-5-default-rtdb.firebaseio.com",
+    "project_id": "gcp-hackathon-22-5",
+    "storage_bucket": "gcp-hackathon-22-5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365434160477:android:103ff821763b6f3dc9d4b4",
+        "android_client_info": {
+          "package_name": "com.example.phone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365434160477-e0vmk2kl430n78rinplfuqtlcp00llqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI1sBwTvhl2eOdO8WXLObVX6imEBwGjD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365434160477-e0vmk2kl430n78rinplfuqtlcp00llqb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "365434160477-nuu8mddkrkbrpqkuokllh4bjr38vs4ta.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.phoneApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
