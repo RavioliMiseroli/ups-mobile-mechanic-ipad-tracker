@@ -1,11 +1,18 @@
-# GitHub Information
+# Mobile Mechanic iPad Tracker - UPS 2022 Hackathon - Team 9: Hackletes
 
-If you have any issues with GitHub please reach out in the `Mentor - Microsoft` channel in hackathon teams
+## Category: Supply Chain & Transportation Network
 
-## How to pull from GitHub on the UPS Network
+## Problem: 
+iPads used by mobile mechanics are getting lost or misplaced. 
 
-If you are using a work laptop, [click here](.ups-hackathon-docs/ups-network.md)
+## Solution: 
+A mobile app which sends an iPad's location and a web app which allows access to the iPads' details and location which can be searched in a table and viewed on Google Maps. 
 
-## How to pull from GitHub on a personal machine off the UPS Network
+## Impact: 
+This solution keeps iPads from being lost and allows for efficiency in attempting to find any misplaced devices. 
 
-If you are using a personal machine not part of UPS and off of the UPS network, [click here](.ups-hackathon-docs/personal-machine.md)
+## How to Run the Web App:
+1. clone the repo
+2. cd web-app
+3. npm install
+4. npm start
